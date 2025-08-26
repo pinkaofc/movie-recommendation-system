@@ -117,8 +117,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-
-
-Do you also want me to add a **"How Recommendations Work" section** (explaining cosine similarity & feature extraction) so your README looks even more impressive for recruiters/interviewers?
-```
